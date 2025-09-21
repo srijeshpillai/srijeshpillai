@@ -35,6 +35,7 @@ This section highlights the projects associated with my academic papers. Each re
 
 *   **CattleSense - A Multisensory Approach to Optimize Cattle Well-Being**
     *   *An end-to-end IoT system using Arduino and Raspberry Pi for real-time monitoring of livestock health and environmental conditions.*
+    *   ***Published in the 2024 Advances in Science and Engineering Technology International Conferences (ASET).***
     *   [[**GitHub Code**]](https://github.com/srijeshpillai/cattlesense-iot-livestock-monitoring) | [[Paper - Official DOI Link]](https://doi.org/10.1109/ASET60340.2024.10708764)
 
 ---
